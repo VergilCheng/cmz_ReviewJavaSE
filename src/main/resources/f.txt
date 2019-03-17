@@ -1,0 +1,2 @@
+这个文件是通过BufferedReader与BufferedWriter来进行
+复制和拷贝的，本文件是f.txt,拷贝出去的文件是g.txt

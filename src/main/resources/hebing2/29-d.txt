@@ -1,0 +1,7 @@
+串我日死你的妈
+鬼鬼你可真是个孤儿
+辣真的牛批
+这是通过FileWriter的write方法追加的。
+通过append方法追加字符串这是通过FileWriter的write方法追加的。
+通过append方法追加字符串这是通过FileWriter的write方法追加的。
+通过append方法追加字符串
